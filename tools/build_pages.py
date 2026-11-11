@@ -33,6 +33,7 @@ T["en"] = dict(home="Baby Rhythm", tagline="A local-first feeding rhythm tracker
   ("Deleting your data", "Delete individual records or a baby profile inside the app, or delete the app to remove all of its data from your device. We hold no copy, so there is nothing to request from us."),
   ("Not medical advice", "Feeding predictions are calculated only from your own records and are not medical advice."),
   ("Children's privacy", "The app is intended for parents and caregivers, not for children. Because no data is collected, we hold no information about children."),
+  ("Feedback email", "If you email us through Send Feedback in the app, the message includes your app version, iOS version, device model and app language. You can see and delete these before sending. It never includes baby or feeding data."),
   ("Changes and contact", "If this policy changes, the updated version will be posted here with a new effective date. Questions: email {email}.")],
  s_title="Baby Rhythm Support", s_contact="Questions, bug reports or feedback: email {email}.", faq="Common questions",
  q=[("Where is my data?", "Only on your iPhone. Deleting the app deletes it."), ("No reminder or Live Activity?", "Check Settings → Notifications and Live Activities for Baby Rhythm.")])
@@ -46,6 +47,7 @@ T["zh-Hans"] = dict(home="Baby Rhythm 宝宝节律", tagline="面向照护者的
   ("删除你的数据", "你可以在 App 内删除单条记录或某个宝宝档案，也可以删除 App 以从设备上移除它的全部数据。我们不保留任何副本，因此无需向我们提出删除请求。"),
   ("非医疗建议", "喂养预测仅根据你自己的记录计算，不构成医疗建议。"),
   ("儿童隐私", "本 App 面向家长和照护者，而非儿童。由于不收集任何数据，我们不持有任何有关儿童的信息。"),
+  ("反馈邮件", "如果你通过 App 内的“发送反馈”给我们发邮件，邮件中会包含 App 版本、iOS 版本、设备型号和 App 语言。发送前你可以看到并删除这些内容。邮件绝不包含宝宝或喂养数据。"),
   ("变更与联系方式", "如果本政策有变更，更新后的版本将连同新的生效日期发布在此页面。如有疑问，请发送邮件至 {email}。")],
  s_title="Baby Rhythm 支持", s_contact="疑问、问题反馈或建议：请发送邮件至 {email}。", faq="常见问题",
  q=[("我的数据在哪里？", "只在你的 iPhone 上。删除 App 即会删除数据。"), ("没有收到提醒或实时活动？", "请检查“设置”→“通知”以及 Baby Rhythm 的“实时活动”选项。")])
@@ -59,6 +61,7 @@ T["zh-Hant"] = dict(home="Baby Rhythm 寶寶節律", tagline="為照顧者設計
   ("刪除你的資料", "你可以在 App 內刪除單筆記錄或某個寶寶檔案，也可以刪除 App 以從裝置上移除它的全部資料。我們不保留任何副本，因此無需向我們提出刪除請求。"),
   ("非醫療建議", "餵奶預測僅根據你自己的記錄計算，不構成醫療建議。"),
   ("兒童隱私", "本 App 以家長和照顧者為對象，而非兒童。由於不蒐集任何資料，我們不持有任何有關兒童的資訊。"),
+  ("意見回饋郵件", "如果你透過 App 內的「傳送意見回饋」寄電子郵件給我們，郵件中會包含 App 版本、iOS 版本、裝置型號和 App 語言。寄出前你可以看到並刪除這些內容。郵件絕不包含寶寶或餵養資料。"),
   ("變更與聯絡方式", "如果本政策有變更，更新後的版本將連同新的生效日期發布在此頁面。如有疑問，請寄送電子郵件至 {email}。")],
  s_title="Baby Rhythm 支援", s_contact="疑問、問題回報或建議：請寄送電子郵件至 {email}。", faq="常見問題",
  q=[("我的資料在哪裡？", "只在你的 iPhone 上。刪除 App 即會刪除資料。"), ("沒有收到提醒或即時動態？", "請檢查「設定」→「通知」以及 Baby Rhythm 的「即時動態」選項。")])
@@ -72,6 +75,7 @@ T["fr"] = dict(home="Baby Rhythm", tagline="Le suivi du rythme des repas, en loc
   ("Supprimer vos données", "Supprimez des saisies ou le profil d'un bébé dans l'app, ou supprimez l'app pour effacer toutes ses données de votre appareil. Nous n'en détenons aucune copie, il n'y a donc rien à nous demander."),
   ("Pas un avis médical", "Les estimations des repas sont calculées uniquement à partir de vos propres saisies et ne constituent pas un avis médical."),
   ("Confidentialité des enfants", "L'app s'adresse aux parents et aux personnes qui s'occupent des enfants, pas aux enfants eux-mêmes. Comme aucune donnée n'est collectée, nous ne détenons aucune information sur des enfants."),
+  ("E-mail de commentaire", "Si vous nous écrivez via « Envoyer un commentaire » dans l'app, le message contient la version de l'app, la version d'iOS, le modèle de l'appareil et la langue de l'app. Vous pouvez voir et supprimer ces informations avant l'envoi. Le message ne contient jamais de données sur votre bébé ni sur ses repas."),
   ("Modifications et contact", "Si cette politique change, la nouvelle version sera publiée ici avec une nouvelle date d'entrée en vigueur. Pour toute question, écrivez à {email}.")],
  s_title="Assistance Baby Rhythm", s_contact="Pour toute question, tout bug ou toute suggestion, écrivez à {email}.", faq="Questions fréquentes",
  q=[("Où sont mes données ?", "Uniquement sur votre iPhone. Supprimer l'app les supprime."), ("Pas de rappel ni d'Activité en direct ?", "Dans Réglages, vérifiez les notifications et les Activités en direct de Baby Rhythm.")])
@@ -85,6 +89,7 @@ T["de"] = dict(home="Baby Rhythm", tagline="Ein lokaler Tracker für den Mahlzei
   ("Deine Daten löschen", "Lösche einzelne Einträge oder ein Babyprofil in der App, oder lösche die App, um alle ihre Daten von deinem Gerät zu entfernen. Wir haben keine Kopie, daher musst du bei uns nichts anfordern."),
   ("Keine medizinische Beratung", "Die Vorhersagen werden nur aus deinen eigenen Einträgen berechnet und sind keine medizinische Beratung."),
   ("Datenschutz bei Kindern", "Die App richtet sich an Eltern und Betreuungspersonen, nicht an Kinder. Da keine Daten erfasst werden, haben wir keine Informationen über Kinder."),
+  ("Feedback-E-Mail", "Wenn du uns über „Feedback senden“ in der App schreibst, enthält die Nachricht die App-Version, die iOS-Version, das Gerätemodell und die App-Sprache. Du kannst diese Angaben vor dem Senden sehen und löschen. Die Nachricht enthält niemals Daten zu deinem Baby oder zu Mahlzeiten."),
   ("Änderungen und Kontakt", "Wenn sich diese Erklärung ändert, wird die aktualisierte Fassung hier mit neuem Gültigkeitsdatum veröffentlicht. Fragen? Schreib an {email}.")],
  s_title="Baby Rhythm Support", s_contact="Fragen, Fehlermeldungen oder Feedback? Schreib an {email}.", faq="Häufige Fragen",
  q=[("Wo sind meine Daten?", "Nur auf deinem iPhone. Wenn du die App löschst, werden sie gelöscht."), ("Keine Erinnerung oder Live-Aktivität?", "Prüfe in den Einstellungen die Mitteilungen und Live-Aktivitäten für Baby Rhythm.")])
@@ -98,6 +103,7 @@ T["es"] = dict(home="Baby Rhythm", tagline="Un registro del ritmo de tomas que f
   ("Eliminar tus datos", "Elimina registros sueltos o el perfil de un bebé dentro de la app, o elimina la app para borrar todos sus datos de tu dispositivo. No guardamos ninguna copia, así que no hay nada que solicitarnos."),
   ("No es consejo médico", "Las predicciones de tomas se calculan solo a partir de tus propios registros y no son consejo médico."),
   ("Privacidad de los niños", "La app está pensada para madres, padres y cuidadores, no para niños. Como no se recopila ningún dato, no tenemos información sobre niños."),
+  ("Correo de comentarios", "Si nos escribes desde «Enviar comentarios» en la app, el mensaje incluye la versión de la app, la versión de iOS, el modelo del dispositivo y el idioma de la app. Puedes ver y borrar estos datos antes de enviarlo. El mensaje nunca incluye datos de tu bebé ni de las tomas."),
   ("Cambios y contacto", "Si esta política cambia, la versión actualizada se publicará aquí con una nueva fecha de entrada en vigor. Si tienes dudas, escribe a {email}.")],
  s_title="Ayuda de Baby Rhythm", s_contact="Para dudas, errores o sugerencias, escribe a {email}.", faq="Preguntas frecuentes",
  q=[("¿Dónde están mis datos?", "Solo en tu iPhone. Si eliminas la app, se eliminan."), ("¿No ves recordatorios ni la Actividad en directo?", "En Ajustes, revisa las notificaciones y las Actividades en directo de Baby Rhythm.")])
@@ -111,6 +117,7 @@ T["it"] = dict(home="Baby Rhythm", tagline="Un diario del ritmo delle poppate ch
   ("Eliminare i tuoi dati", "Elimina singole registrazioni o il profilo di un bambino nell'app, oppure elimina l'app per rimuovere tutti i suoi dati dal dispositivo. Non conserviamo alcuna copia, quindi non c'è nulla da richiederci."),
   ("Non è un consiglio medico", "Le previsioni delle poppate sono calcolate solo dalle tue registrazioni e non costituiscono un consiglio medico."),
   ("Privacy dei minori", "L'app è pensata per i genitori e per chi si prende cura dei bambini, non per i bambini. Poiché non viene raccolto alcun dato, non disponiamo di informazioni sui minori."),
+  ("E-mail di commento", "Se ci scrivi tramite «Invia un commento» nell'app, il messaggio include la versione dell'app, la versione di iOS, il modello del dispositivo e la lingua dell'app. Puoi vedere ed eliminare questi dati prima dell'invio. Il messaggio non include mai dati sul tuo bebè o sulle poppate."),
   ("Modifiche e contatti", "Se questa informativa cambia, la versione aggiornata sarà pubblicata qui con una nuova data di entrata in vigore. Per domande, scrivi a {email}.")],
  s_title="Assistenza Baby Rhythm", s_contact="Per domande, segnalazioni di bug o suggerimenti, scrivi a {email}.", faq="Domande frequenti",
  q=[("Dove sono i miei dati?", "Solo sul tuo iPhone. Se elimini l'app, vengono eliminati."), ("Nessun promemoria o Attività in tempo reale?", "In Impostazioni, controlla le notifiche e le Attività in tempo reale di Baby Rhythm.")])
@@ -124,6 +131,7 @@ T["pt-BR"] = dict(home="Baby Rhythm", tagline="Um registro do ritmo das mamadas 
   ("Apagar seus dados", "Apague registros individuais ou o perfil de um bebê no app, ou apague o app para remover todos os dados dele do seu aparelho. Não guardamos nenhuma cópia, então não há nada a nos solicitar."),
   ("Não é orientação médica", "As previsões de mamadas são calculadas apenas com base nos seus próprios registros e não são orientação médica."),
   ("Privacidade de crianças", "O app é destinado a mães, pais e cuidadores, não a crianças. Como nenhum dado é coletado, não temos informações sobre crianças."),
+  ("E-mail de feedback", "Se você nos escrever por “Enviar feedback” no app, a mensagem inclui a versão do app, a versão do iOS, o modelo do aparelho e o idioma do app. Você pode ver e apagar esses dados antes de enviar. A mensagem nunca inclui dados do bebê nem das mamadas."),
   ("Alterações e contato", "Se esta política mudar, a versão atualizada será publicada aqui com uma nova data de vigência. Dúvidas? Envie um e-mail para {email}.")],
  s_title="Suporte do Baby Rhythm", s_contact="Dúvidas, relatos de erros ou sugestões? Envie um e-mail para {email}.", faq="Perguntas frequentes",
  q=[("Onde ficam meus dados?", "Só no seu iPhone. Apagar o app apaga os dados."), ("Não aparece lembrete nem Atividade ao Vivo?", "Em Ajustes, verifique as notificações e as Atividades ao Vivo do Baby Rhythm.")])
@@ -137,6 +145,7 @@ T["ja"] = dict(home="Baby Rhythm", tagline="保護者や育児をする方のた
   ("データの削除", "アプリ内で個別の記録や赤ちゃんのプロフィールを削除できます。アプリを削除すると、そのデータはすべてデバイスから消去されます。当方はコピーを保持していないため、削除をご依頼いただく必要はありません。"),
   ("医療上のアドバイスではありません", "授乳の予測はご自身の記録のみにもとづいて計算されるもので、医療上のアドバイスではありません。"),
   ("子どものプライバシー", "本アプリは保護者や育児をする方を対象としており、子ども向けではありません。データを収集しないため、子どもに関する情報を保有することはありません。"),
+  ("フィードバックメール", "App 内の「フィードバックを送る」からメールを送ると、App のバージョン、iOS のバージョン、デバイスの機種、App の言語がメッセージに含まれます。送信前にこれらを確認して削除できます。赤ちゃんや授乳のデータが含まれることはありません。"),
   ("変更とお問い合わせ", "本ポリシーを変更する場合は、新しい施行日とともに更新版をこのページに掲載します。ご質問は {email} までメールでお寄せください。")],
  s_title="Baby Rhythm サポート", s_contact="ご質問、不具合のご報告、ご意見は {email} までメールでお寄せください。", faq="よくある質問",
  q=[("データはどこにありますか？", "お使いの iPhone の中だけです。アプリを削除するとデータも削除されます。"), ("リマインダーやライブアクティビティが表示されない場合は？", "「設定」で Baby Rhythm の通知とライブアクティビティを確認してください。")])
@@ -150,6 +159,7 @@ T["ko"] = dict(home="Baby Rhythm", tagline="보호자를 위한, 기기 안에�
   ("데이터 삭제", "앱에서 개별 기록이나 아기 프로필을 삭제할 수 있으며, 앱을 삭제하면 기기에서 모든 데이터가 제거됩니다. 저희는 사본을 보관하지 않으므로 별도로 요청하실 것이 없습니다."),
   ("의학적 조언이 아닙니다", "수유 예측은 사용자가 직접 입력한 기록만으로 계산되며 의학적 조언이 아닙니다."),
   ("아동 개인정보", "이 앱은 아동이 아닌 부모와 보호자를 위한 앱입니다. 데이터를 수집하지 않으므로 아동에 관한 정보를 보유하지 않습니다."),
+  ("의견 이메일", "앱의 ‘의견 보내기’로 이메일을 보내면 메시지에 앱 버전, iOS 버전, 기기 모델, 앱 언어가 포함됩니다. 보내기 전에 이 내용을 확인하고 삭제할 수 있습니다. 아기나 수유 데이터는 절대 포함되지 않습니다."),
   ("변경 사항 및 문의", "이 방침이 변경되면 새 시행일과 함께 업데이트된 내용을 이 페이지에 게시합니다. 문의 사항은 {email}로 이메일을 보내 주세요.")],
  s_title="Baby Rhythm 지원", s_contact="질문, 버그 신고 또는 의견은 {email}로 이메일을 보내 주세요.", faq="자주 묻는 질문",
  q=[("제 데이터는 어디에 있나요?", "사용자의 iPhone에만 있습니다. 앱을 삭제하면 데이터도 삭제됩니다."), ("리마인더나 실시간 현황이 보이지 않나요?", "설정에서 Baby Rhythm의 알림과 실시간 현황을 확인해 주세요.")])
@@ -172,7 +182,7 @@ def render(lang, folder, page):
         body = (f'<h1>Baby Rhythm</h1>\n<p>{text(t["tagline"], lang)}</p>\n<ul><li><a href="privacy/">{t["privacy"]}</a></li><li><a href="support/">{t["support"]}</a></li></ul>\n'
                 f'<p><small>{switch}</small></p>\n<p><small>© 2026 TinyDotWorks</small></p></body></html>\n')
     elif page == "privacy":
-        body = f'<h1>{title}</h1>\n<p><small>{t["effective"]} 2026-10-21 · {switch}</small></p>\n<p>{text(t["intro"], lang)}</p>\n'
+        body = f'<h1>{title}</h1>\n<p><small>{t["effective"]} 2026-11-10 · {switch}</small></p>\n<p>{text(t["intro"], lang)}</p>\n'
         body += "".join(f'<h2>{text(h, lang)}</h2>\n<p>{text(p, lang)}</p>\n' for h, p in t["sections"]) + "</body></html>\n"
     else:
         body = f'<h1>{title}</h1>\n<p><small>{switch}</small></p>\n<p>{text(t["s_contact"], lang)}</p>\n<h2>{t["faq"]}</h2>\n'
